@@ -95,6 +95,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ If this project helped you, please consider giving it a star! ⭐**
 
-*Built with ❤️ for the financial analytics community*
-
 </div>
